@@ -13,7 +13,11 @@ in automatically identify diseases in crops like rice, corn, wheat, cotton & tom
 
 ❄ The goal of this project is to leverage computer-vision-based techniques
 and build a model that can:
-    ❄ Accurately classify a given image into a diseased category or a healthy leaf. 
-    ❄ Accurately distinguish between many diseases, sometimes more than one on a single leaf.
-    ❄ Deal with rare classes and novel symptoms.
-    ❄ Address depth perception — angle, light, shade & age of the leaf.
+    
+   ❄ Accurately classify a given image into a diseased category or a healthy leaf. 
+    
+   ❄ Accurately distinguish between many diseases, sometimes more than one on a single leaf.
+   
+   ❄ Deal with rare classes and novel symptoms.
+   
+   ❄ Address depth perception — angle, light, shade & age of the leaf.
